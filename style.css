@@ -138,6 +138,7 @@ margin: 0 auto;
 /* Highlights */
 .highlight__wrapper{
  display: flex;
+ flex-wrap: wrap;
 }
 
 .hightlight{
